@@ -144,6 +144,7 @@ namespace WordPadMin
         private void cutToolStripMenuItem_Click(object sender, EventArgs e)
         {            richTextBox1.Cut();        }
 
+
         private void undoToolStripMenuItem_Click(object sender, EventArgs e)
         {            richTextBox1.Undo();        }
 
@@ -209,6 +210,15 @@ namespace WordPadMin
                 richTextBox1.Text = " ";
                 saved = true;
             }
+        }
+
+        private void fontStripButton1_Click(object sender, EventArgs e)
+        {
+
+            fontDialog1.ShowColor = true;
+            fontDialog1.ShowDialog();
+            richTextBox1.SelectionFont = fontDialog1.Font;
+            richTextBox1.SelectionColor = fontDialog1.Color;
         }
     }
 

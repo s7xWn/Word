@@ -8,3 +8,13 @@ C:\Users\s7x\Desktop\WordPad-master\obj\Debug\WordPadMin.csproj.GenerateResource
 C:\Users\s7x\Desktop\WordPad-master\obj\Debug\WordPadMin.csproj.CoreCompileInputs.cache
 C:\Users\s7x\Desktop\WordPad-master\obj\Debug\WordPadMin.exe
 C:\Users\s7x\Desktop\WordPad-master\obj\Debug\WordPadMin.pdb
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.csprojAssemblyReference.cache
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.Form1.resources
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.Properties.Resources.resources
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.csproj.GenerateResource.cache
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.csproj.CoreCompileInputs.cache
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.exe
+C:\Users\s7x\Documents\GitHub\Word\obj\Debug\WordPadMin.pdb
+C:\Users\s7x\Documents\GitHub\Word\bin\Debug\WordPadMin.exe.config
+C:\Users\s7x\Documents\GitHub\Word\bin\Debug\WordPadMin.exe
+C:\Users\s7x\Documents\GitHub\Word\bin\Debug\WordPadMin.pdb

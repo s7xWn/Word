@@ -56,6 +56,9 @@
             this.undoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.fontStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.fontDialog1 = new System.Windows.Forms.FontDialog();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.toolStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -73,6 +76,7 @@
             this.копироватьToolStripButton,
             this.вставкаToolStripButton,
             this.toolStripSeparator1,
+            this.fontStripButton1,
             this.Reboot});
             this.toolStrip1.Location = new System.Drawing.Point(0, 25);
             this.toolStrip1.Name = "toolStrip1";
@@ -300,6 +304,16 @@
             this.richTextBox1.Text = "";
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
+            // fontStripButton1
+            // 
+            this.fontStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.fontStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("fontStripButton1.Image")));
+            this.fontStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.fontStripButton1.Name = "fontStripButton1";
+            this.fontStripButton1.Size = new System.Drawing.Size(23, 24);
+            this.fontStripButton1.Text = "&Шрифт";
+            this.fontStripButton1.Click += new System.EventHandler(this.fontStripButton1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -353,6 +367,9 @@
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.ToolStripButton Reboot;
+        private System.Windows.Forms.ToolStripButton fontStripButton1;
+        private System.Windows.Forms.FontDialog fontDialog1;
+        private System.Windows.Forms.ColorDialog colorDialog1;
     }
 }
 

@@ -222,6 +222,19 @@
         PdXm80/AfDokTVu+8DfPXv9XCcIPTvjvLQ8YoakAAAAASUVORK5CYII=
 </value>
   </data>
+  <data name="fontStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGfSURBVEhL7ZW9K0VhHMevvC0oFkI2jBYWxcZopRTKYMLG
+        SPkTlJiQEqNFTN6SZEIGshEllIUU8fk+9zndc2/nee5d7i05n/rU83t5zu/c83YTMTH/jiLcw327Lhjd
+        +GPtUqJQLGEweFGJQlCKzxgMfsVyzDt9qIHneGHXyuWdTdSwKZy26w3MK5X4jt/YZNVaOdVclOAgbuE9
+        vqFOthFzYgj1Cw9MlERr5YZNFM0JqifTJ6zHrOygNoyZKInWyu2aKJpjvMQBrMYG3EbtW0UvtfiFn1ij
+        hEVr5VSrUyJHWlCDH03kYQLVqPuUiXKqTZoomirsxwU8Q52s9kgvpxg0ulRPFOP4guFeXaFg7aQZw5t8
+        qjfMKAa1Q9RrqM9shc1JJzOohhUTRaOaemZNlOIKlR8xUTpZB1+jGnpNFE0PqufGRCk+UHnd4zD6V/MO
+        bkcV9fQVK+FAtQdUb4cSFj1Iyq1hK5ahPjzzGAzuxDSOMChKxS5cvbqf+rKFa1GmHTvzYHo4XPh69c4u
+        4y3qNdKVWcc2nMM79B07JubPkkj8AtGCnDx6SQevAAAAAElFTkSuQmCC
+</value>
+  </data>
   <data name="Reboot.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
@@ -242,6 +255,12 @@
   </metadata>
   <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>338, 1</value>
+  </metadata>
+  <metadata name="fontDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>448, 1</value>
+  </metadata>
+  <metadata name="colorDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>564, 1</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>25</value>
